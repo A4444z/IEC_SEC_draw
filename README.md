@@ -1,2 +1,2 @@
-# ITC_draw
+# IEC/SEC_draw
 to draw ITC/SD curves easily
